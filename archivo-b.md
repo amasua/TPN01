@@ -3,3 +3,4 @@
 3. linea 3 archivo-b.md
 4. linea 4 archivo-b.md
 5. linea 5 archivo-b.md
+6. linea 6 archivo-b.md DEVELOP commit 4
